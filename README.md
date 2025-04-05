@@ -35,9 +35,15 @@ FrontEnd HTML CSS JavaScript Jquery Bootstrap
 • Experience in writing stored procedure, Function, View, Trigger, SQL Queries
 • Experience in writing unit test
 • Experience in writing web API
+
 • Development of a fully-featured e-commerce Website using .Net Core 8, Entity Framework Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JavaScript)
+
 • Development of a fully-featured news Website using .Net Core 8, Entity Framework Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JavaScript)
+
 • Development of a fully-featured of windows application for managing institutions using Entity Framework, SQL, ADO.Net
+
+-Teamwork Experience:
+.Gando Tejarat Company, since November 2024
 <!---
 DargahiLeila/DargahiLeila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

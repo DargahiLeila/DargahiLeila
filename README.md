@@ -42,10 +42,15 @@ A software developer and University Lecturer. I have worked independently and ga
 
 🌐 Frontend
 • HTML
+
 • CSS
+
 • JavaScript
+
 • Bootstrap
+
 • jQuery
+
 • Bootstrap
 
 🔍 Interests & Goals

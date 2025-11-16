@@ -52,6 +52,7 @@ A helpful developer
 • Microsoft SQL Server
 
 📐 Principles
+
 • SOLID
 
 • Software Architecture
@@ -122,4 +123,4 @@ A helpful developer
 
 🤝 Teamwork Experience
 
-Gando Tejarat Company, since November 2024
+• Gando Tejarat Company, since November 2024

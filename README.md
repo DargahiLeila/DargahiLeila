@@ -1,6 +1,6 @@
 👋 Hi, I’m Leila Dargahi
   
-🧑‍🏫 About
+### 👩‍🏫👩‍💻 About  
 A software developer and University Lecturer. I have worked independently and gained a good knowledge of programming languages and the software development life cycle. I love writing well-organized and clean code. I am always open to feedback and never miss a chance to give ideas to improve the status quo. I love everything about learning new things and have no attachment to any framework, language, etc.
 
 To sum it up:

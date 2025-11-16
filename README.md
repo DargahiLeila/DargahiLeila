@@ -15,7 +15,7 @@ A helpful developer
 
 🛠️ The list of technologies and services I could help with:
 
-💻 Programming
+## 💻 Programming
 
 • .Net (C#)
 
@@ -45,13 +45,13 @@ A helpful developer
 
 • Unit Testing (xUnit), Integration Testing
 
-🗄️ Database
+## 🗄️ Database
 
 • SQL & NoSQL
 
 • Microsoft SQL Server
 
-📐 Principles
+## 📐 Principles
 
 • SOLID
 
@@ -63,7 +63,7 @@ A helpful developer
 
 • CQRS
 
-🌐 Frontend
+## 🌐 Frontend
 
 • HTML
 
@@ -90,7 +90,7 @@ A helpful developer
 📫 How to reach me: LinkedIn
 
 
-💪 Abilities
+## 💪 Abilities
 
 • Proficiency in C#
 
@@ -113,7 +113,7 @@ A helpful developer
 • Developing Web APIs
 
 
-🌐 Projects
+## 🌐 Projects
 
 🛒 E-commerce Website using .NET Core 9, EF Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JS)
 
@@ -121,6 +121,6 @@ A helpful developer
 
 🖥️ Windows Application for managing institutions using EF, SQL, ADO.NET
 
-🤝 Teamwork Experience
+## 🤝 Teamwork Experience
 
 • Gando Tejarat Company, since November 2024

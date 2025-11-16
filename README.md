@@ -9,7 +9,7 @@ A software developer and University Lecturer . I have worked independently and g
 
 Programming
 
-.Net (C#) ,Java,C, C++, Windows Form , Asp.net Web form , Asp.net MVC , Asp.net Core , Object Oriented Programming Object Oriented Design Clean Code Visual studio DesignPatterns WebApi , Ado.net Entity Framework Sync and Async Commenication JSON Web Token (JWT) unit-testing xUnit.
+.Net (C#) ,Java,C, C++, Windows Form , Asp.net Web form , Asp.net MVC , Asp.net Core , Object Oriented Programming Object Oriented Design Clean Code Visual studio DesignPatterns WebApi , Ado.net Entity Framework Sync and Async Commenication JSON Web Token (JWT) unit-testing xUnit and Integration tesing.
 
 -DataBase:
 
@@ -36,9 +36,9 @@ FrontEnd HTML CSS JavaScript Jquery Bootstrap
 • Experience in writing unit test
 • Experience in writing web API
 
-• Development of a fully-featured e-commerce Website using .Net Core 8, Entity Framework Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JavaScript)
+• Development of a fully-featured e-commerce Website using .Net Core 9, Entity Framework Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JavaScript)
 
-• Development of a fully-featured news Website using .Net Core 8, Entity Framework Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JavaScript)
+• Development of a fully-featured news Website using .Net Core 9, Entity Framework Core, SQL Server, Razor Pages (HTML, CSS, Bootstrap, JavaScript)
 
 • Development of a fully-featured of windows application for managing institutions using Entity Framework, SQL, ADO.Net
 

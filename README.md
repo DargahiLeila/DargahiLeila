@@ -21,7 +21,13 @@ A helpful developer
 
 • Java, C, C++
 
-• Windows Form, ASP.NET Web Form, ASP.NET MVC, ASP.NET Core
+• Windows Form
+
+• ASP.NET Web Form 
+
+• ASP.NET MVC Core
+
+• ASP.NET API Core
 
 • Object-Oriented Programming & Design
 
@@ -29,7 +35,9 @@ A helpful developer
 
 • Design Patterns, Web API
 
-• ADO.NET, Entity Framework
+• ADO.NET
+
+• Entity Framework
 
 • Sync & Async Communication
 

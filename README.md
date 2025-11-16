@@ -5,51 +5,68 @@ A software developer and University Lecturer. I have worked independently and ga
 
 🛠️ The list of technologies and services I could help with:
 💻 Programming
-.Net (C#), Java, C, C++
+• .Net (C#)
+• Java, C, C++
 
-Windows Form, ASP.NET Web Form, ASP.NET MVC, ASP.NET Core
+• Windows Form, ASP.NET Web Form, ASP.NET MVC, ASP.NET Core
 
-Object-Oriented Programming & Design
+• Object-Oriented Programming & Design
 
-Clean Code, Visual Studio
+• Clean Code, Visual Studio
 
-Design Patterns, Web API
+• Design Patterns, Web API
 
-ADO.NET, Entity Framework
+• ADO.NET, Entity Framework
 
-Sync & Async Communication
+• Sync & Async Communication
 
-JSON Web Token (JWT)
+• JSON Web Token (JWT)
 
-Unit Testing (xUnit), Integration Testing
+• Unit Testing (xUnit), Integration Testing
 
 🗄️ Database
-SQL & NoSQL
+• SQL & NoSQL
 
-Microsoft SQL Server
+• Microsoft SQL Server
 
 📐 Principles
-SOLID
+• SOLID
 
-Software Architecture
+• Software Architecture
 
-Clean Architecture
+• Clean Architecture
 
-Onion Architecture
+• Onion Architecture
 
-CQRS
+• CQRS
 
 🌐 Frontend
-HTML, CSS, JavaScript
-
-jQuery, Bootstrap
+• HTML
+• CSS
+• JavaScript
+• Bootstrap
+• jQuery
+• Bootstrap
 
 🔍 Interests & Goals
-👀 I'm interested in software architecture 💞️ I’m looking to collaborate on .NET projects 💼 I’m looking for a new job as a .NET Developer 🚀 I am always looking for new challenges! 📫 How to reach me: LinkedIn
+👀 I'm interested in software architecture 
+💞️ I’m looking to collaborate on .NET projects 
+💼 I’m looking for a new job as a .NET Developer
+🚀 I am always looking for new challenges!
+📫 How to reach me: LinkedIn
 
 
 💪 Abilities
-• Proficiency in C#, SQL Server, OOP, Clean Code • Research and Development • Data Structures, Algorithms, and problem-solving • Writing Stored Procedures, Functions, Views, Triggers, SQL Queries • Writing Unit Tests • Developing Web APIs
+• Proficiency in C#
+• SQL Server
+• OOP
+•Clean Code 
+• Research and Development 
+• Data Structures
+• Algorithms, and problem-solving 
+• Writing Stored Procedures, Functions, Views, Triggers, SQL Queries
+• Writing Unit Tests  and Integration Testing
+• Developing Web APIs
 
 
 🌐 Projects

@@ -55,22 +55,36 @@ A software developer and University Lecturer. I have worked independently and ga
 
 🔍 Interests & Goals
 👀 I'm interested in software architecture 
+
 💞️ I’m looking to collaborate on .NET projects 
+
 💼 I’m looking for a new job as a .NET Developer
+
 🚀 I am always looking for new challenges!
+
 📫 How to reach me: LinkedIn
 
 
 💪 Abilities
+
 • Proficiency in C#
+
 • SQL Server
+
 • OOP
-•Clean Code 
+
+• Clean Code
+
 • Research and Development 
+
 • Data Structures
+
 • Algorithms, and problem-solving 
+
 • Writing Stored Procedures, Functions, Views, Triggers, SQL Queries
+
 • Writing Unit Tests  and Integration Testing
+
 • Developing Web APIs
 
 
@@ -82,4 +96,5 @@ A software developer and University Lecturer. I have worked independently and ga
 🖥️ Windows Application for managing institutions using EF, SQL, ADO.NET
 
 🤝 Teamwork Experience
+
 Gando Tejarat Company, since November 2024
